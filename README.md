@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Lokesh Patel</h1>
 <h3 align="center">Full Stack Web Developer | Node.js • Express • MongoDB</h3>
 
@@ -51,6 +50,6 @@
 
 ## 🌐 Connect With Me
 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-id](https://www.linkedin.com/in/lokesh-patel-3ab379254/?isSelfProfile=true))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lokesh-patel-3ab379254/?isSelfProfile=true)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lokeshpatel01)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lokeshpatel5872@gmail.com)
